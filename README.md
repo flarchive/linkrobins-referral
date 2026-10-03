@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of linkrobins/referral.** Not for installation: use [Packagist](https://packagist.org/packages/linkrobins/referral) or the [upstream repository](https://github.com/linkrobins/referral).
 
-**0** versions archived · Latest: [`v1.4.4`](https://github.com/flarchive/linkrobins-referral/tree/archive/v1.4.4) · License: `MIT` · Flarum: `^2.0`
+**17** versions archived · Latest: [`v1.4.4`](https://github.com/flarchive/linkrobins-referral/tree/archive/v1.4.4) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-05-04 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-referral/tree/archive/v1.0.0) |
+| `v1.0.1` | 2026-05-04 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-referral/tree/archive/v1.0.1) |
+| `v1.0.2` | 2026-05-08 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-referral/tree/archive/v1.0.2) |
+| `v1.0.3` | 2026-05-08 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-referral/tree/archive/v1.0.3) |
+| `v1.0.4` | 2026-05-10 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-referral/tree/archive/v1.0.4) |
+| `v1.0.5` | 2026-05-27 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-referral/tree/archive/v1.0.5) |
+| `v1.0.6` | 2026-05-27 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-referral/tree/archive/v1.0.6) |
+| `v1.1.0` | 2026-05-28 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-referral/tree/archive/v1.1.0) |
+| `v1.1.1` | 2026-05-31 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-referral/tree/archive/v1.1.1) |
+| `v1.2.0` | 2026-05-31 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-referral/tree/archive/v1.2.0) |
+
+[View all 17 versions](https://github.com/flarchive/linkrobins-referral/tags)
 
 Catalog entry: [packages/linkrobins-referral.json](https://github.com/flarchive/archive-index/blob/main/packages/linkrobins-referral.json)
 
